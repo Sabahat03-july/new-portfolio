@@ -10,7 +10,7 @@ const ContactForm = () => {
             <input type="number" placeholder="Phone Number" className="w-full p-4 mb-4 rounded" />
             <input type="text" placeholder="Subject" className="w-full p-4 mb-4 rounded" />
           </div>
-          <textarea placeholder="Your Message" className="w-full p-4 mb-4 rounded" rows="5"></textarea>
+          <textarea placeholder="Your Message" className="w-full p-4 mb-4 rounded" rows={5}></textarea>
           <input type="submit" value="Send Message" className="bg-black text-white py-2 px-4 rounded" />
         </form>
       </section>
