@@ -8,7 +8,7 @@ const About = () => {
           <h2 className="text-4xl">About <span className="text-orange-500">Me</span></h2>
           <h3 className="text-6xl">Frontend <span className="text-orange-500">Developer</span></h3>
           <p className="mt-4 text-lg">
-            I am a passionate Frontend Developer with a keen eye for creating responsive and visually appealing websites. I have a strong foundation in HTML, CSS, and JavaScript, and I enjoy working with modern frameworks like React and Next.js.
+            I am a passionate Frontend Developer with a keen eye for creating responsive and visually appealing websites. I have a strong foundation in HTML | CSS | and JavaScript, and I enjoy working with modern frameworks like React and Next.js.
           </p>
           <p className="mt-4 text-lg">
             My goal is to develop user-friendly applications that provide great user experiences. I love learning new technologies and keeping up with industry trends to continuously improve my skills.
